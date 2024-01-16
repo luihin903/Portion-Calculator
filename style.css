@@ -1,0 +1,10 @@
+img {
+    position: absolute;
+    bottom: 0px;
+    margin: auto;
+    cursor: pointer;
+}
+
+input {
+    margin: 8px;
+}
